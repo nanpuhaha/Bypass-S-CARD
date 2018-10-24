@@ -1,0 +1,10 @@
+Package: seo.jangwon.bypasss-card
+Name: Bypass S-CARD
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: S-CARD 앱의 탈옥감지를 우회합니다.
+Maintainer: Jangwon Seo
+Author: Jangwon Seo
+Section: Tweaks
+
